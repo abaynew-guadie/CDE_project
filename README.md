@@ -9,7 +9,7 @@ Usage of fronted and back end technologies
 Contributing
 -Develop the web systems
 -Create databse system
-Must include link to your deployed site, final project blog article, author(s) LinkedIn
+
 Author name:
 Abaynew Guadie Nigussie
 LinkedIn
